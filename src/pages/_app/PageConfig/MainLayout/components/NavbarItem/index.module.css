@@ -1,0 +1,10 @@
+.navigationItem {
+  padding: 8px 24px;
+
+  font-size: var(--font-size-small);
+  color: var(--mantine-color-gray-7);
+
+  &:hover {
+    background-color: var(--mantine-color-gray-0);
+  }
+};
